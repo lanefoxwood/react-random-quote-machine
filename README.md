@@ -1,4 +1,4 @@
-# <a href="https://lanefoxwood.github.io/react-random-quote-machine/">Try me out!</a>
+# <a href="https://lanefoxwood.github.io/react-random-quote-machine/">Give Me Advice!</a>
 ## react-random-quote-machine 
 * Check out my fun javascript advice giver! *
 
